@@ -1,5 +1,5 @@
 # easyTranslationHelper
-Set of features aiming to facilitate translating a project, written in Python.
+Set of features, written in Python, aiming to facilitate translating a project.
 
 ## Requirements
 
